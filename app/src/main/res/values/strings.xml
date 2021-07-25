@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">DailyFeed</string>
+
+    <string name="ringtones">Ringtones</string>
+    <string name="wallpapers">WallPapers</string>
+    <string name="set_wallpapers">Set WallPaper</string>
+    <string name="set_wallpapers_lock">Lock Screen</string>
+    <string name="set_wallpapers_home">Home Screen</string>
+    <string name="screen_lock"><![CDATA[Home & Lock]]></string>
+    <string name="set_ringtone">Set RingTone</string>
+    <string name="dailyfeed">Daily Feeds</string>
+    <string name="see_all">See all</string>
+    <string name="edit">Edit</string>
+    <string name="download">Download</string>
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+    <string name="share_audio">Share Audio</string>
+    <string name="share_image">Share image</string>
+
+    <string name="pref_key_transition_time" translatable="false">pref_key_transition_time</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_comment">Comment</string>
+    <string name="cd_favourite">Favourite</string>
+    <string name="dialog_seekbar_transition_time">Item transition time in millis</string>
+</resources>
